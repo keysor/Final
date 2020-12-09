@@ -2,7 +2,7 @@
 [Home](https://github.com/keysor/Final/blob/main/README.md)   
 ## Directory 
 [About](https://github.com/keysor/Final/blob/main/about.md)  [Coding](https://github.com/keysor/Final/blob/main/coding.md)  [Hobbies](https://github.com/keysor/Final/blob/main/hobbies.md)  [Fun Facts](https://github.com/keysor/Final/blob/main/funfacts.md)
-
+# Hobbies
 **I have a lot of useless hobbies that waste a bunch of my time!**
  
 * **Music**: I spend even more time listening to music. While doing anything I have music playing in my ears, really close to home as some of my close friends have gone into the music industry to produce their own music and me and my friends will support them thick and thin; I have a wide genre of music and will pretty much listen to anything
