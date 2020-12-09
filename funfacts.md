@@ -1,7 +1,7 @@
 # **Ben Dargue, Final Project**
 [Home](https://github.com/keysor/Final/blob/main/README.md)   
 ## Directory 
-[About](https://github.com/keysor/Final/blob/main/about)  [Coding](https://github.com/keysor/Final/blob/main/coding)  [Hobbies](https://github.com/keysor/Final/blob/main/hobbies)  [Fun Facts](https://github.com/keysor/Final/blob/main/funfacts)
+[About](https://github.com/keysor/Final/blob/main/about.md)  [Coding](https://github.com/keysor/Final/blob/main/coding.md)  [Hobbies](https://github.com/keysor/Final/blob/main/hobbies.md)  [Fun Facts](https://github.com/keysor/Final/blob/main/funfacts.md) [Home Town](https://github.com/keysor/Final/blob/main/hometown.md)
 # Fun Facts
 * **Tiktok:** Listen, I don't really like this app, It's a social media app where you can post videos. I posted <b>one</b> video and it went viral. 14.5 Million views and 2.5 Million likes on that app alone I saw it being reposted on a few different wesbsites with no credit given however!
 * **This final:** Fun fact! I wrote this whole project in html because I was naive and thought github would magically create this into a website. Upon further reading I figured it all out!
