@@ -2,3 +2,5 @@
 [Home](https://github.com/keysor/Final/blob/main/README.md)   
 ## Directory 
 [About](https://github.com/keysor/Final/blob/main/about.md)  [Coding](https://github.com/keysor/Final/blob/main/coding.md)  [Hobbies](https://github.com/keysor/Final/blob/main/hobbies.md)  [Fun Facts](https://github.com/keysor/Final/blob/main/funfacts.md)
+
+**Hello! This is my final project submission for INFOTC 1000.**
