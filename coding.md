@@ -57,3 +57,6 @@ int main (void)
     }
 
 ```
+This code takes four numbers that you input of your free will and lists some outputs (which were required for the code in the class).
+It takes the first number you input as A, the second as B, the third as C and the fourth number you input as D it then gives you the sum of the **A and B number you input**. **The integer quotient of B divided by C.**
+**The product of C and D.** **The integer remainder of B divided by C** and the product of **A and B divided by the quantity sum of C and D;** It then displays which is which and displays the number outputted in a clean format for the user to read and then kills the program allowing you to run it again and test different numbers if you desire.
