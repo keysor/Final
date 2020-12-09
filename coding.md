@@ -1,7 +1,7 @@
 # **Ben Dargue, Final Project**
 [Home](https://github.com/keysor/Final/blob/main/README.md)   
 ## Directory 
-[About](https://github.com/keysor/Final/blob/main/about.md)  [Coding](https://github.com/keysor/Final/blob/main/coding.md)  [Hobbies](https://github.com/keysor/Final/blob/main/hobbies.md)  [Fun Facts](https://github.com/keysor/Final/blob/main/funfacts.md) [Home Town](https://github.com/keysor/Final/blob/main/hometown.md))
+[About](https://github.com/keysor/Final/blob/main/about.md)  [Coding](https://github.com/keysor/Final/blob/main/coding.md)  [Hobbies](https://github.com/keysor/Final/blob/main/hobbies.md)  [Fun Facts](https://github.com/keysor/Final/blob/main/funfacts.md) [Home Town](https://github.com/keysor/Final/blob/main/hometown.md)
 # Coding
 **Here is one of my codes I produced in C**
 ``` #include <stdio.h>
